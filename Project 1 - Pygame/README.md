@@ -5,4 +5,4 @@
 Projeto desenvolvido na primeira semana de estudo na Ironhack.
 
 Para esse primeiro projeto, foi feito Tetris utilizando a biblioteca do Pygame.
-<img src=”C:/Users/yukar/Ironhack/Projects/Project 1 - Pygame/Capturar1.JPG”>
+<img src=”Capturar1.jpg”>
