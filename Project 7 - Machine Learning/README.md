@@ -1,6 +1,9 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
+# Project 7 | Machine Learning
+
 ## Descrição
 
- 
 Este case consiste em um exercício prático de construção de um modelo e quais insights você consegue extrair dos dados.
 
 Desenhamos o case para que você possa mostrar as suas habilidades como cientista de dados.
@@ -28,3 +31,5 @@ Idealmente, queremos poder replicar sua análise a partir dos códigos enviados.
 ## Objetivo:
 
 Construir um modelo preditivo para determinar se vai ou não chover amanhã. 
+
+A apresentação está disponível em: https://docs.google.com/presentation/d/1ZxmFY8S0LMtlLfsznKvv7CUc0-v7NpXukbz_P-MkGd8/edit?usp=sharing
