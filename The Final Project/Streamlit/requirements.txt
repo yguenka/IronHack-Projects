@@ -1,0 +1,7 @@
+numpy==1.18.1
+joblib==0.13.2
+matplotlib==3.2.1
+pandas==1.0.3
+streamlit==0.59.0
+Pillow==7.1.2
+scikit_learn==0.23.1
