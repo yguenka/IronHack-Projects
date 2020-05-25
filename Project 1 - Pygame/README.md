@@ -10,6 +10,7 @@ Concluido :heavy_check_mark:
 
 ## Como rodar a aplicação
 No terminal, clone o projeto:
+
 git clone https://github.com/yguenka/IronHack-Projects/blob/master/Project%201%20-%20Pygame/My%20-%20quase%20-Tetris.ipynb
 
 Instale o pygame:
