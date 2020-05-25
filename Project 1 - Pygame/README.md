@@ -2,9 +2,11 @@
 
 # Project 1 | Pygame - Tetris
 
-## Projeto desenvolvido na primeira semana de estudo na Ironhack. Neste projeto, foi feito um Tetris, utilizando a biblioteca do Pygame.
+## Descrição
+Projeto desenvolvido na primeira semana de estudo na Ironhack. Neste projeto, foi feito um Tetris, utilizando a biblioteca do Pygame.
 
-Status do Projeto: Concluido :heavy_check_mark:
+## Status do Projeto
+Concluido :heavy_check_mark:
 
 ## Como rodar a aplicação
 No terminal, clone o projeto:
