@@ -12,12 +12,13 @@ Neste projeto foi realizado o Data Cleaning do dataset [Shark Attack](https://ww
 O projeto foi direcionado a partir do tema: Analisando os dados, qual gênero e estação do ano ocorre os ataques de tubarões nos Estados Unidos e na Austrália ? 
 
 ## Status do Projeto
-Concluido ☑
+Concluido ✅
 
 ## Pré-requisito
 1. [Python](https://www.python.org/)
 2. [Jupyter Notebook](https://jupyter.org/try)
 3. [Pandas](https://pandas.pydata.org/)
+4. [Regex](https://pypi.org/project/regex/)
 
 ## Conclusão
 
