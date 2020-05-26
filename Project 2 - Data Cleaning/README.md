@@ -77,7 +77,7 @@ Jul  |   38
 
 ## Autores
 + **Yukari Guenka Yshida**
-+ **[Claudia Sarmento]**(github.com/claudia-sarmento)
++ **[Claudia Sarmento](github.com/claudia-sarmento)**
 
 ## Agradecimentos
 + [André Aguiar](https://github.com/aguiarandre)
