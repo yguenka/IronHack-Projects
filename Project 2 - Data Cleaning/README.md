@@ -24,8 +24,9 @@ Concluido :heavy_check_mark:
 Ao analisar os dados, podemos dizer que em ambos os países, os ataques ocorrem no verão e a maior incidência é com o gênero masculino.
 
 ### Estados Unidos
-#### Homem:  84,7%
-#### Mulher: 15,3%
+Homem:  84,7%
+
+Mulher: 15,3%
 
 Mês  | Qtd ataques
 :---:|:-----------:
@@ -44,8 +45,9 @@ Feb  |    48
 Jan  |    43
 
 ### Austrália
-#### Homem:  93%
-#### Mulher:  7%
+Homem:  93%
+
+Mulher:  7%
 
 Mês  | Qtd ataques
 :---:|:-----------:
