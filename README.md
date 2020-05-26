@@ -3,6 +3,10 @@
 # Projects
 Neste repositório há 8 projetos que foram desenvolvidos ao longo do curso de Data Analytics na IRONHACK São Paulo, Bootcamp - 500h.
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/aQCCNezRpb9Hq/giphy.gif?cid=ecf05e4753ea79cda53e5f0a4ceb09357d016296be1655b4&rid=giphy.gif">
+</p>
+
 ## Projetos 
 ### Project 1 - Pygame 🕹️
 Primeiro projeto desenvolvido, logo após o início do curso. Neste projeto, foi feito um tetris com a biblioteca do Pygame. 
@@ -22,6 +26,3 @@ Então foi feito o tratamento de dados sobre o tempo da Austrália e a modelagem
 ### The Final Project - Skin Cancer Scanner 👩‍🔬
 Projeto desenvolvido para detectar câncer de pele através da inserção de imagens no aplicativo. Ao desenvolver, foi possível analisar que há duas possibilidades de desenvolvimento: uso medicinal e/ou aplicativos voltado ao público.
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/aQCCNezRpb9Hq/giphy.gif?cid=ecf05e4753ea79cda53e5f0a4ceb09357d016296be1655b4&rid=giphy.gif">
-</p>
