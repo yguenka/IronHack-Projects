@@ -11,7 +11,7 @@
 Projeto desenvolvido na primeira semana de estudo na Ironhack. Neste projeto, foi feito um Tetris, utilizando a biblioteca do Pygame.
 
 ## Status do Projeto
-Concluido :heavy_check_mark:
+Concluido ☑
 
 ## Pré-requisito
 1. [Python](https://www.python.org/)

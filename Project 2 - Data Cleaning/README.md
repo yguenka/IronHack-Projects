@@ -9,10 +9,10 @@
 
 ## Descrição
 Neste projeto foi realizado o Data Cleaning do dataset [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks).
-O projeto foi direcionado a partir do tema: Analisando os dados, qual estação do ano ocorre os ataques de tubarões nos Estados Unidos e na Austrália ? 
+O projeto foi direcionado a partir do tema: Analisando os dados, qual gênero e estação do ano ocorre os ataques de tubarões nos Estados Unidos e na Austrália ? 
 
 ## Status do Projeto
-Concluido :heavy_check_mark:
+Concluido ☑
 
 ## Pré-requisito
 1. [Python](https://www.python.org/)
@@ -21,7 +21,7 @@ Concluido :heavy_check_mark:
 
 ## Conclusão
 
-Ao analisar os dados, podemos dizer que em ambos os países, os ataques ocorrem no verão e a maior incidência é com o gênero masculino.
+Ao analisar os dados, podemos dizer que em ambos os países, há mais incidência com o gênero masculino. E dentro do gênero masculino, no verão é a estação onde há mais frequência dos ataques. Já que há maior quantidade de banhistas nesta estação do ano.
 
 ### Estados Unidos
 Homem:  84,7%
