@@ -22,4 +22,4 @@ Então foi feito o tratamento de dados sobre o tempo da Austrália e a modelagem
 ### The Final Project - Skin Cancer Scanner
 Projeto desenvolvido para detectar câncer de pele através da inserção de imagens no aplicativo. Ao desenvolver, foi possível analisar que há duas possibilidades de desenvolvimento: uso medicinal e/ou aplicativos voltado ao público.
 
- <center>![GIF](https://media3.giphy.com/media/aQCCNezRpb9Hq/giphy.gif?cid=ecf05e4753ea79cda53e5f0a4ceb09357d016296be1655b4&rid=giphy.gif)<center>
+ <center>![GIF](https://media3.giphy.com/media/aQCCNezRpb9Hq/giphy.gif?cid=ecf05e4753ea79cda53e5f0a4ceb09357d016296be1655b4&rid=giphy.gif)</center>
