@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# 🧹 giProject 2 | Data Cleaning
+# 🧹 Project 2 | Data Cleaning
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ycr587EkQo8KY/giphy.gif">
@@ -24,11 +24,8 @@ Concluido :heavy_check_mark:
 Ao analisar os dados, podemos dizer que em ambos os países, os ataques ocorrem no verão e a maior incidência é com o gênero masculino.
 
 ### Estados Unidos
-
-Gênero | Porcentagem
-:-----:|:-----------:
-Homem  | 84,7%
-Mulher | 15,3%
+Homem:  84,7%
+Mulher: 15,3%
 
 Mês  | Qtd ataques
 :---:|:-----------:
@@ -37,7 +34,7 @@ Aug  |   291
 Sep  |   253
 Jun  |   223
 Oct  |   181
-  ?  |   153
+ ?   |   153
 May  |   138
 Apr  |   133
 Nov  |   104
@@ -47,11 +44,8 @@ Feb  |    48
 Jan  |    43
 
 ## Austrália
-
-Gênero | Porcentagem
-:-----:|:-----------:
-Homem  | 93%
-Mulher |  7%
+Homem:  93%
+Mulher:  7%
 
 Mês  | Qtd ataques
 :---:|:-----------:
@@ -60,7 +54,7 @@ Dec  |  144
 Feb  |  123
 Nov  |  114
 Mar  |  103
-  ?  |   90
+ ?   |   90
 Apr  |   89
 Oct  |   77
 Jun  |   53
@@ -68,12 +62,6 @@ Sep  |   48
 Aug  |   45
 May  |   45
 Jul  |   38
-
-
-
-
-
-
 
 ## Autores
 + **Yukari Guenka Yshida**
