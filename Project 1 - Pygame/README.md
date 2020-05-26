@@ -18,7 +18,7 @@ Concluido :heavy_check_mark:
 2. [Jupyter Notebook](https://jupyter.org/try)
 3. [Pygame](https://www.pygame.org/wiki/GettingStarted)
 
-## Como rodar a aplicação
+## Como rodar o jogo
 No terminal, clone o projeto:
 ```
 git clone https://github.com/yguenka/IronHack-Projects/blob/master/Project%201%20-%20Pygame/My%20-%20quase%20-Tetris.ipynb
@@ -41,10 +41,14 @@ As imagens abaixo mostram o tetris ao decorrer do jogo.
   <img src="Capturar1.JPG">
 </p>
 
+<p align="center">
+  <img src="Capturar2.JPG">
+</p>
 
-![1](Capturar1.JPG)
-![2](Capturar2.JPG)
-![3](Capturar3.JPG)
+<p align="center">
+  <img src="Capturar3.JPG">
+</p>
+
 
 ## Autores
 + **Yukari Guenka Yshida**

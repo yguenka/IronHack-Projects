@@ -7,7 +7,41 @@
 </p>
 
 
-Neste projeto, realizado em dupla com [Claudia Sarmento](github.com/claudia-sarmento) para fazer o data cleaning do dataset do Kaggle, o famoso [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks).
+## Descrição
+Neste projeto foi realizado o Data Cleaning do dataset [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks).
+O projeto foi direcionado a partir do tema: Analisando os dados, qual estação do ano ocorre os ataques de tubarões nos Estados Unidos e na Austrália ? 
 
-O data cleaning foi direcionado a partir do tema: Analisando os EUA e na Austrália, em qual estação do ano é mais atacado ?
-Então chegamos na coclusão de que em ambos os países, os ataques dos tubarões ocorrem no verão, época do ano onde há mais banhistas em relação às demais épocas do ano.
+## Status do Projeto
+Concluido :heavy_check_mark:
+
+## Pré-requisito
+1. [Python](https://www.python.org/)
+2. [Jupyter Notebook](https://jupyter.org/try)
+3. [Pandas](https://pandas.pydata.org/)
+
+## Conclusão
+### Estados Unidos
+Mês  | Qtd ataques
+-----|------------
+Jul  |   306
+Aug  |   291
+Sep  |   253
+Jun  |   223
+Oct  |   181
+ ?   |   153
+May  |   138
+Apr  |   133
+Nov  |   104
+Mar  |    88
+Dec  |    55
+Feb  |    48
+Jan  |    43
+
+
+
+
+
+
+
+
+[Claudia Sarmento](github.com/claudia-sarmento)
