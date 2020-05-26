@@ -21,6 +21,12 @@ Instale o a biblioteca [Pygame](https://pypi.org/project/pygame/):
 pip install pygame --user 
 ```
 
+Verificar a versão:
+```
+pygame==1.9.6
+
+```
+
 As imagens abaixo mostram o tetris ao decorrer do jogo.
 ![1](Capturar1.JPG)
 ![2](Capturar2.JPG)
