@@ -15,8 +15,8 @@ Concluido :heavy_check_mark:
 
 ## Pré-requisito
 1. [Python](https://www.python.org/)
-2. [Pygame](https://www.pygame.org/wiki/GettingStarted)
-3. [Jupyter Notebook](https://jupyter.org/try)
+2. [Jupyter Notebook](https://jupyter.org/try)
+3. [Pygame](https://www.pygame.org/wiki/GettingStarted)
 
 ## Como rodar a aplicação
 No terminal, clone o projeto:
@@ -37,6 +37,11 @@ pygame.__version__=='1.9.6'
 Abrir o Jupyter Notebook e rodar o código clonado.
 
 As imagens abaixo mostram o tetris ao decorrer do jogo.
+<p align="center">
+  <img src="Capturar1.JPG">
+</p>
+
+
 ![1](Capturar1.JPG)
 ![2](Capturar2.JPG)
 ![3](Capturar3.JPG)
@@ -44,7 +49,7 @@ As imagens abaixo mostram o tetris ao decorrer do jogo.
 ## Autores
 + **Yukari Guenka Yshida**
 
-## Reconhecimentos
+## Agradecimentos
 + [André Aguiar](https://github.com/aguiarandre)
 + [Matheus Lavado](https://github.com/matheuslavado)
 + [Lucas White Rossi](https://github.com/LucasWhiteRossi)
