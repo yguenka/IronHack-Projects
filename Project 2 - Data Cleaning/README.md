@@ -20,7 +20,11 @@ Concluido :heavy_check_mark:
 3. [Pandas](https://pandas.pydata.org/)
 
 ## Conclusão
+
 ### Estados Unidos
+Homem  | 84,7%
+Mulher | 15,3%
+
 Mês  | Qtd ataques
 -----|------------
 Jul  |   306
@@ -28,7 +32,7 @@ Aug  |   291
 Sep  |   253
 Jun  |   223
 Oct  |   181
- ?   |   153
+  ?  |   153
 May  |   138
 Apr  |   133
 Nov  |   104
@@ -37,7 +41,26 @@ Dec  |    55
 Feb  |    48
 Jan  |    43
 
+## Austrália
 
+Homem  | 93%
+Mulher |  7%
+
+Mês  | Qtd ataques
+-----|------------
+Jan  |  167
+Dec  |  144
+Feb  |  123
+Nov  |  114
+Mar  |  103
+  ?  |   90
+Apr  |   89
+Oct  |   77
+Jun  |   53
+Sep  |   48
+Aug  |   45
+May  |   45
+Jul  |   38
 
 
 
