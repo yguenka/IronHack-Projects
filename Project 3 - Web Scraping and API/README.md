@@ -13,7 +13,7 @@ O Web Scrapping foi feito no site [Wordometers](https://www.worldometers.info/co
 Já o uso do API foi utilizado no site [AwesomeAPI](https://economia.awesomeapi.com.br/json/daily/USD-BRL/41) para captar informações sobre a variação do dolar nos meses de fevereiro e março , por 41 dias também.
 
 ## Status do Projeto
-Concluido :heavy_check_mark:
+Concluido ✅
 
 ## Pré-requisito
 1. [Python](https://www.python.org/)
