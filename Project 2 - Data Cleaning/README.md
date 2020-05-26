@@ -74,4 +74,13 @@ Jul  |   38
 
 
 
-[Claudia Sarmento](github.com/claudia-sarmento)
+
+## Autores
++ **Yukari Guenka Yshida**
++ **[Claudia Sarmento]**(github.com/claudia-sarmento)
+
+## Agradecimentos
++ [André Aguiar](https://github.com/aguiarandre)
++ [Matheus Lavado](https://github.com/matheuslavado)
++ [Lucas White Rossi](https://github.com/LucasWhiteRossi)
++ [Raiana Rocha](https://github.com/Rairocha)
