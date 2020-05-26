@@ -1,8 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Projects
-
-## Descrição
 Neste repositório há 8 projetos que foram desenvolvidos ao longo do curso de Data Analytics na IRONHACK São Paulo.
 
 ## Projetos 
