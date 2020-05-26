@@ -8,7 +8,7 @@ Neste repositório há 8 projetos que foram desenvolvidos ao longo do curso de D
 </p>
 
 ## Projetos 
-### 🕹️ Project 1 | Pygame - Tetris
+### 🎮 Project 1 | Pygame - Tetris
 Primeiro projeto desenvolvido, logo após o início do curso. Neste projeto, foi feito um tetris com a biblioteca do Pygame. 
 ### 🧹 Project 2 | Data Cleaning 
 A partir do dataset do Shark Attack, foi realizado o Data Cleaning para que seja possível a análise da estação do ano onde há mais ataques de tubarões na Austrália e nos Estados Unidos.
@@ -18,7 +18,7 @@ Com a técnica de Web Scraping e API, obtive informações sobre os novos casos 
 A partir dos dados obtidos no projeto anterior de Web Scraping e API, fiz a análise e a visualização dos dados usando Tableau. Além dos dados do COVID-19 e do dólar, utilizei os dados da variação da ação da companhia áerea Azul para analisar a relação entre a variação da ação e o aumento do COVID-19.
 ### 📉 Project 5 | Linear Regression 
 Ao utilizar o data set sobre os diamantes, foi feito o tratamento dos dados, análise e modelagem dos dados para fazer a previsão dos valores de venda dos diamantes.
-### 🧬 Project 6 | Segmentation 
+### 📋 Project 6 | Segmentation 
 Neste projeto, foi utilizado um data set sobre tumores de pele malígna e benigna, para fazer a segmentação dos dados e separar as fotos dos tumores. 
 ### 🌦️ Project 7 | Machine Learning 
 Projeto foi desenvolvido em torno do tema: Vai chover amanhã ?
