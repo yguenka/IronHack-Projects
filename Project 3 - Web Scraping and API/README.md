@@ -7,6 +7,7 @@
 </p>
 
 ## Descrição
+Projeto feito para extrair dados de sites para que seja possível fazer o tratamento de dados posteriormente.
 
 Com o uso do ***Requests*** e ***BeautifulSoap*** , foi possível extrair as informações da página do site [Wordometers](https://www.worldometers.info/coronavirus/country/brazil/), para que seja possível aplicar o ***Regex***, possibilitando a extração de informações de novos casos do Corona Virus (COVID-19) durante os meses de fevereiro e março, de 41 dias.
 

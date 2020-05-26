@@ -8,6 +8,8 @@
 
 Este projeto foi realizado a partir do dataset [Câncer de Pele](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) com o objetivo de fazer a segmentação entre o tumor benigno e maligno do câncer de pele.
 
+A primeira tentativa de segmentação foi feito após transformar a imagem em 4 cores, mas a segmentação não funcionou como esperado. Já na segunda tentativa, além colocar na escala de cinza, foi feito a equalização das imagens (acentuar detalhes não visíveis anteriormente) para tentar tentativa de segmentação mais clara.
+
 
 ## Status do Projeto
 Concluido ✅
@@ -20,7 +22,9 @@ Concluido ✅
 5. [Matplotlib](https://pypi.org/project/matplotlib/)
 6. [Scikit Lean](https://pypi.org/project/scikit-learn/)
 7. [Seaborn](https://pypi.org/project/seaborn/)
-8. [Mathematics](https://pypi.org/project/maths/)
+8. [Skimage](https://pypi.org/project/skimage/)
+9. [Yellowbrick](https://pypi.org/project/yellowbrick/)
+10. [Plotly](https://pypi.org/project/plotly/)
 
 
 ## Autores

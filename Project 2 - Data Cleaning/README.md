@@ -8,7 +8,9 @@
 
 
 ## Descrição
-Neste projeto foi realizado o Data Cleaning do dataset [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks).
+Neste projeto, foi realizado o Data Cleaning do dataset [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks).
+
+## Objetivo 
 O projeto foi direcionado a partir do tema: Analisando os dados, qual gênero e estação do ano ocorre os ataques de tubarões nos Estados Unidos e na Austrália ? 
 
 ## Status do Projeto
