@@ -22,6 +22,9 @@ Concluido :heavy_check_mark:
 ## Conclusão
 
 ### Estados Unidos
+
+Gênero | Porcentagem
+-------|------------
 Homem  | 84,7%
 Mulher | 15,3%
 
@@ -43,6 +46,8 @@ Jan  |    43
 
 ## Austrália
 
+Gênero | Porcentagem
+-------|------------
 Homem  | 93%
 Mulher |  7%
 
