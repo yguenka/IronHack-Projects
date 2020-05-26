@@ -3,7 +3,7 @@
 # Project 1 | Pygame - Tetris 🕹️
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/f7STAwvEml1eIf0FEq/giphy.gif?cid=ecf05e47255b2bc912749985ee5d2c11da71628b14b62c36&rid=giphy.gif">
+  <img src="https://media2.giphy.com/media/5Tndtit6LsZmE/giphy.gif?cid=ecf05e47255b2bc912749985ee5d2c11da71628b14b62c36&rid=giphy.gif">
 </p>
 
 
