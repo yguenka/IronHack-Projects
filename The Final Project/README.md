@@ -35,7 +35,7 @@ Em andamento 👣 - Para a finalização satisfatória
 ## Como mexer no app ?
 
 <p align="center">
-  <img src="video.mp4">
+  <img src="https://drive.google.com/file/d/1C5hA6MhWqmA7xTCSPzQgL0bPKpPIx3UW/view?usp=sharing">
 </p>
 
 
