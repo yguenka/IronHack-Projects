@@ -8,12 +8,18 @@
 
 Projeto realizado a partir do dataset [Câncer de Pele](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) com o objetivo de fazer um aplicativo que retorne se o  tumor é benigno ou maligno.
 
-Como a segmentação do dataset foi realizado no projeto 6, foi utilizado o ***PCA*** para diminuir a quantidade de colunas (= diminuir a dimensão das imagens) em 80%. Neste caso, as dimensões foram de 224 x 224 para 12 x 12. 
+Como a segmentação do dataset foi realizado no projeto 6, foi feito o tratamento de 100 imagens com tumores málígos e 100 imagens de turmores benígnos, utilizando o ***PCA*** para diminuir a quantidade de colunas (= diminuir a dimensão das imagens) em 80%. Neste caso, as dimensões foram de 224 x 224 para 12 x 12. 
 Após o tratamento das imagens. foi realizado a modelagem dos dados utilizando a ***Regressão Logística*** para que seja possível a diferenciação entre os dois tipos de tumores na pele.
 
 A apresentação está disponível em: [Skin Cancer Scanner - Apresentação](https://docs.google.com/presentation/d/1TjSlaU27YxH-52qqAKaaZk35n2RQsFTMblQZIyWv3Wg/edit?usp=sharing).
 
 Já o app está disponível em: [Skin Cancer Scanner - App](https://skin-cancer-scanner.herokuapp.com/)
+
+## Como funciona o app ?
+
+<p align="center">
+  <img src="https://github.com/yguenka/IronHack-Projects/blob/master/The%20Final%20Project/video.gif?raw=true">
+</p>
 
 ## Status do Projeto
 Concluido ✅ - Para a apresentação do dia 22/05/2020
@@ -33,11 +39,6 @@ Em andamento 👣 - Para a finalização satisfatória
 10. [Plotly](https://pypi.org/project/plotly/)
 11. [LightGBM](https://pypi.org/project/lightgbm/)
 
-## Como mexer no app ?
-
-<p align="center">
-  <img src="https://github.com/yguenka/IronHack-Projects/blob/master/The%20Final%20Project/video.gif?raw=true">
-</p>
 
 ## Autores
 + **Yukari Guenka Yshida**

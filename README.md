@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Projects
-Neste repositório há 8 projetos que foram desenvolvidos ao longo do curso de Data Analytics na IRONHACK São Paulo, Bootcamp - 500h.
+Neste repositório há 8 projetos que foram desenvolvidos ao longo do curso de Data Analytics na IRONHACK São Paulo.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/aQCCNezRpb9Hq/giphy.gif?cid=ecf05e4753ea79cda53e5f0a4ceb09357d016296be1655b4&rid=giphy.gif">

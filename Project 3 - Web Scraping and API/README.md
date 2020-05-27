@@ -13,7 +13,7 @@ Com o uso do ***Requests*** e ***BeautifulSoap*** , foi possível extrair as inf
 
 Para a extração de informações via API no site [AwesomeAPI](https://economia.awesomeapi.com.br/json/daily/USD-BRL/41) para captar informações sobre a variação do dolar nos meses de fevereiro e março , de 41 dias também, foi utilizado o ***Requests*** e para o data cleaning, o ***Regex***.
 
-Após o data cleaning das informações extraídas, elas foram exportadas para o CSV.
+Após o data cleaning das informações extraídas, elas foram exportadas como `corona_dolar.csv`.
 
 
 ## Status do Projeto
