@@ -17,6 +17,7 @@ Já o app está disponível em: [Skin Cancer Scanner - App](https://skin-cancer-
 
 ## Status do Projeto
 Concluido ✅ - Para a apresentação do dia 22/05/2020
+
 Em andamento 👣 - Para a finalização satisfatória
 
 ## Pré-requisito
