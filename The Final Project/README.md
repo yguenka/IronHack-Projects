@@ -36,12 +36,8 @@ Em andamento 👣 - Para a finalização satisfatória
 ## Como mexer no app ?
 
 <p align="center">
-  <iframe src="https://drive.google.com/file/d/1C5hA6MhWqmA7xTCSPzQgL0bPKpPIx3UW/view?usp=sharing">
+  <img src=""> src="https://drive.google.com/file/d/1pl0Gea867E9DpO1_N5nKRJPP5aR-nzaZ/view?usp=sharing">
 </p>
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1C5hA6MhWqmA7xTCSPzQgL0bPKpPIx3UW/view?usp=sharing" type="video/mp4">
-</video>
 
 ## Autores
 + **Yukari Guenka Yshida**
