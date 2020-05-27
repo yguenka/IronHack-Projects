@@ -11,6 +11,8 @@ Projeto realizado a partir do dataset [Câncer de Pele](https://www.kaggle.com/f
 Como a segmentação do dataset foi realizado no projeto 6, foi feito o tratamento de 100 imagens com tumores málígos e 100 imagens de turmores benígnos, utilizando o ***PCA*** para diminuir a quantidade de colunas (= diminuir a dimensão das imagens) em 80%. Neste caso, as dimensões foram de 224 x 224 para 12 x 12. 
 Após o tratamento das imagens. foi realizado a modelagem dos dados utilizando a ***Regressão Logística*** para que seja possível a diferenciação entre os dois tipos de tumores na pele.
 
+Para desenvolver o app, foi necessário fazer o pipeline da transformação do ***PCA*** e o modelo da ***Regressão Logística*** transformar em `pipe.pkl`. Após a transformação foi feito o deploy utilizando o ***Streamlit*** no ***Heroku***.
+
 A apresentação está disponível em: [Skin Cancer Scanner - Apresentação](https://docs.google.com/presentation/d/1TjSlaU27YxH-52qqAKaaZk35n2RQsFTMblQZIyWv3Wg/edit?usp=sharing).
 
 Já o app está disponível em: [Skin Cancer Scanner - App](https://skin-cancer-scanner.herokuapp.com/)
@@ -38,7 +40,7 @@ Em andamento 👣 - Para a finalização satisfatória
 9. [Yellowbrick](https://pypi.org/project/yellowbrick/)
 10. [Plotly](https://pypi.org/project/plotly/)
 11. [LightGBM](https://pypi.org/project/lightgbm/)
-
+12. [Streamlit](https://www.streamlit.io/)
 
 ## Autores
 + **Yukari Guenka Yshida**
