@@ -3,7 +3,7 @@
 # 📉 Project 5 | Linear Regression
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/46rXT61bNDxAc/giphy.gif?cid=ecf05e47af3073d2ecd5cf07581860b52cd4b049004fbfb9&rid=giphy.gif">
+  <img src="https://media1.giphy.com/media/xT5LMRMGxjCAX5LaGQ/giphy.gif?cid=ecf05e4740afd175b605d8bb10ef669c66430e5ecd66a856&rid=giphy.gif">
 </p>
 
 ## Descrição
