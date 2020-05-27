@@ -16,7 +16,8 @@ A apresentação está disponível em: [Skin Cancer Scanner - Apresentação](ht
 Já o app está disponível em: [Skin Cancer Scanner - App](https://skin-cancer-scanner.herokuapp.com/)
 
 ## Status do Projeto
-Concluido ✅
+Concluido ✅ - Para a apresentação do dia 22/05/2020
+Em andamento 👣 - Para a finalização satisfatória
 
 ## Pré-requisito
 1. [Python](https://www.python.org/)
@@ -30,6 +31,13 @@ Concluido ✅
 9. [Yellowbrick](https://pypi.org/project/yellowbrick/)
 10. [Plotly](https://pypi.org/project/plotly/)
 11. [LightGBM](https://pypi.org/project/lightgbm/)
+
+## Como mexer no app ?
+
+<p align="center">
+  <img src="video.mp4">
+</p>
+
 
 ## Autores
 + **Yukari Guenka Yshida**
