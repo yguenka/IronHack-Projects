@@ -36,7 +36,7 @@ Em andamento 👣 - Para a finalização satisfatória
 ## Como mexer no app ?
 
 <p align="center">
-  <img src=""> src="https://drive.google.com/file/d/1pl0Gea867E9DpO1_N5nKRJPP5aR-nzaZ/view?usp=sharing">
+  <img src="https://drive.google.com/file/d/1pl0Gea867E9DpO1_N5nKRJPP5aR-nzaZ/view?usp=sharing">
 </p>
 
 ## Autores
