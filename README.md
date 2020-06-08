@@ -7,7 +7,7 @@ Neste repositório há 8 projetos que foram desenvolvidos ao longo do curso de D
   <img src="https://media3.giphy.com/media/aQCCNezRpb9Hq/giphy.gif?cid=ecf05e4753ea79cda53e5f0a4ceb09357d016296be1655b4&rid=giphy.gif">
 </p>
 
-## 🎮 Project 1 | Pygame - Tetris
+## [🎮 Project 1 | Pygame - Tetris](https://github.com/yguenka/IronHack-Projects/tree/master/Project%201%20-%20Pygame)
 Primeiro projeto desenvolvido, logo após o início do curso. Neste projeto, foi feito um tetris com a biblioteca do Pygame. 
 
 ## 🧹 Project 2 | Data Cleaning 
