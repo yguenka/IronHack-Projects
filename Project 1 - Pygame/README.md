@@ -8,7 +8,7 @@
 
 
 ## Descrição
-Projeto desenvolvido na primeira semana de estudo na Ironhack. Neste projeto, foi feito um Tetris, utilizando a biblioteca do Pygame.
+<p align="justify">Projeto desenvolvido na primeira semana de estudo na Ironhack. Neste projeto, foi feito um Tetris, utilizando a biblioteca do Pygame.</p>
 
 ## Status do Projeto
 Concluido ✅

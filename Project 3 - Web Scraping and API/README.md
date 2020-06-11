@@ -7,13 +7,13 @@
 </p>
 
 ## Descrição
-Projeto feito para extrair dados de sites para que seja possível fazer o tratamento de dados posteriormente.
+<p align="justify">Projeto feito para extrair dados de sites para que seja possível fazer o tratamento de dados posteriormente.
 
 Com o uso do ***Requests*** e ***BeautifulSoap*** , foi possível extrair as informações da página do site [Wordometers](https://www.worldometers.info/coronavirus/country/brazil/), para que seja possível aplicar o ***Regex***, possibilitando a extração de informações de novos casos do Corona Virus (COVID-19) durante os meses de fevereiro e março, de 41 dias.
 
 Para a extração de informações via API no site [AwesomeAPI](https://economia.awesomeapi.com.br/json/daily/USD-BRL/41) para captar informações sobre a variação do dolar nos meses de fevereiro e março , de 41 dias também, foi utilizado o ***Requests*** e para o data cleaning, o ***Regex***.
 
-Após o data cleaning das informações extraídas, elas foram exportadas como `corona_dolar.csv`.
+Após o data cleaning das informações extraídas, elas foram exportadas como `corona_dolar.csv`.</p>
 
 
 ## Status do Projeto

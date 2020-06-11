@@ -6,7 +6,7 @@
   <img src="https://media3.giphy.com/media/3orifftBj3OpF6gY8w/giphy.gif?cid=ecf05e47927c999023469afe7d9ee0588d05fd500b89447a&rid=giphy.gif">
 </p>
 
-Projeto realizado a partir do dataset [Câncer de Pele](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) com o objetivo de fazer um aplicativo que retorne se o  tumor é benigno ou maligno.
+<p align="justify">Projeto realizado a partir do dataset [Câncer de Pele](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) com o objetivo de fazer um aplicativo que retorne se o  tumor é benigno ou maligno.
 
 Como a segmentação do dataset foi realizado no projeto 6, foi feito o tratamento de 100 imagens com tumores málígos e 100 imagens de turmores benígnos, utilizando o ***PCA*** para diminuir a quantidade de colunas (= diminuir a dimensão das imagens) em 80%. Neste caso, as dimensões foram de 224 x 224 para 12 x 12. 
 Após o tratamento das imagens. foi realizado a modelagem dos dados utilizando a ***Regressão Logística*** para que seja possível a diferenciação entre os dois tipos de tumores na pele.
@@ -15,7 +15,7 @@ Para desenvolver o app, foi necessário fazer o pipeline da transformação do *
 
 A apresentação está disponível em: [Skin Cancer Scanner - Apresentação](https://docs.google.com/presentation/d/1TjSlaU27YxH-52qqAKaaZk35n2RQsFTMblQZIyWv3Wg/edit?usp=sharing).
 
-Já o app está disponível em: [Skin Cancer Scanner - App](https://skin-cancer-scanner.herokuapp.com/)
+Já o app está disponível em: [Skin Cancer Scanner - App](https://skin-cancer-scanner.herokuapp.com/)</p>
 
 ## Como funciona o app ?
 
