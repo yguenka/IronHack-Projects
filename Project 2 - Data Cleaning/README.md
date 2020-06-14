@@ -32,23 +32,49 @@ Homem:  84,7%
 Mulher: 15,3%
 
 <TABLE BORDER="3" ALIGN="center">
-Mês  | Qtd ataques
-:---:|:-----------:
-Jul  |   306
-Aug  |   291
-Sep  |   253
-Jun  |   223
-Oct  |   181
- ?   |   153
-May  |   138
-Apr  |   133
-Nov  |   104
-Mar  |    88
-Dec  |    55
-Feb  |    48
-Jan  |    43
+	<TR>
+		<TD>MÊS</TD>
+		<TD>QTD ATAQUES</TD>
+	<TR>
+		<TD>Jul</TD>
+		<TD>306</TD>
+    <TR>
+		<TD>Aug</TD>
+		<TD>291</TD>
+	<TR>
+		<TD>Sep</TD>
+		<TD>253</TD>
+	<TR>
+		<TD>Jun</TD>
+		<TD>223</TD>
+	<TR>
+		<TD>Oct</TD>
+		<TD>181</TD>
+	<TR>
+		<TD>?</TD>
+		<TD>153</TD>
+	<TR>
+		<TD>May</TD>
+		<TD>138</TD>
+	<TR>
+		<TD>Apr</TD>
+		<TD>133</TD>
+	<TR>
+		<TD>Nov</TD>
+		<TD>104</TD>
+	<TR>
+		<TD>Mar</TD>
+		<TD>88</TD>
+	<TR>
+		<TD>Dec</TD>
+		<TD>55</TD>
+	<TR>
+		<TD>Feb</TD>
+		<TD>48</TD>
+	<TR>
+		<TD>Jan</TD>
+		<TD>43</TD>
 </TABLE>
-
 
 ### Austrália
 Homem:  93%
