@@ -33,8 +33,8 @@ Mulher: 15,3%
 
 <TABLE>
 	<TR>
-		<TD>MÊS</TD>
-		<TD>QTD ATAQUES</TD>
+		<TD ALIGN="center">MÊS</TD>
+		<TD ALIGN="center">QTD ATAQUES</TD>
 	<TR>
 		<TD>Jul</TD>
 		<TD>306</TD>
