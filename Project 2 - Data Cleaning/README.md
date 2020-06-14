@@ -85,25 +85,62 @@ Concluido ✅
 </TABLE>
 
 ### Austrália
-Homem:  93%
+<TABLE>
+	<TR>
+		<TD ALIGN="center">Gênero</TD>
+		<TD ALIGN="center">Porcentagem</TD>
+	<TR>
+		<TD ALIGN="center">Homem</TD>
+		<TD ALIGN="center">93 %</TD>
+	<TR>
+		<TD ALIGN="center">Mulher</TD>
+		<TD ALIGN="center">7 %</TD>
+</TABLE>
 
-Mulher:  7%
-
-Mês  | Qtd ataques
-:---:|:-----------:
-Jan  |  167
-Dec  |  144
-Feb  |  123
-Nov  |  114
-Mar  |  103
- ?   |   90
-Apr  |   89
-Oct  |   77
-Jun  |   53
-Sep  |   48
-Aug  |   45
-May  |   45
-Jul  |   38
+<TABLE>
+	<TR>
+		<TD ALIGN="center">Mês</TD>
+		<TD ALIGN="center">Qtd Ataques</TD>
+	<TR>
+		<TD ALIGN="center">Jan</TD>
+		<TD ALIGN="center">167</TD>
+    <TR>
+		<TD ALIGN="center">Dec</TD>
+		<TD ALIGN="center">144</TD>
+	<TR>
+		<TD ALIGN="center">Feb</TD>
+		<TD ALIGN="center">123</TD>
+	<TR>
+		<TD ALIGN="center">Nov</TD>
+		<TD ALIGN="center">114</TD>
+	<TR>
+		<TD ALIGN="center">Mar</TD>
+		<TD ALIGN="center">103</TD>
+	<TR>
+		<TD ALIGN="center">?</TD>
+		<TD ALIGN="center">90</TD>
+	<TR>
+		<TD ALIGN="center">Apr</TD>
+		<TD ALIGN="center">89</TD>
+	<TR>
+		<TD ALIGN="center">Oct</TD>
+		<TD ALIGN="center">77</TD>
+	<TR>
+		<TD ALIGN="center">Jun</TD>
+		<TD ALIGN="center">53</TD>
+	<TR>
+		<TD ALIGN="center">Sep</TD>
+		<TD ALIGN="center">48</TD>
+	<TR>
+		<TD ALIGN="center">Aug</TD>
+		<TD ALIGN="center">45</TD>
+	<TR>
+		<TD ALIGN="center">May</TD>
+		<TD ALIGN="center">45</TD>
+	<TR>
+		<TD ALIGN="center">Jul</TD>
+		<TD ALIGN="center">38</TD>
+</TABLE>
 
 ## Autores
 + **Yukari Guenka Yshida**
