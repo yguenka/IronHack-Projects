@@ -45,6 +45,8 @@ Mulher: 15,3%
 	<TR>
 		<TD>Sép</TD>
 		<TD>253</TD>
+
+		
 Mês  | Qtd ataques
 :---:|:-----------:
 Jul  |   306
