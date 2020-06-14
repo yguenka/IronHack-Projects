@@ -36,44 +36,44 @@ Mulher: 15,3%
 		<TD ALIGN="center">MÊS</TD>
 		<TD ALIGN="center">QTD ATAQUES</TD>
 	<TR>
-		<TD>Jul</TD>
-		<TD>306</TD>
+		<TD ALIGN="center">Jul</TD>
+		<TD ALIGN="center">306</TD>
     <TR>
-		<TD>Aug</TD>
-		<TD>291</TD>
+		<TD ALIGN="center">Aug</TD>
+		<TD ALIGN="center">291</TD>
 	<TR>
-		<TD>Sep</TD>
-		<TD>253</TD>
+		<TD ALIGN="center">Sep</TD>
+		<TD ALIGN="center">253</TD>
 	<TR>
-		<TD>Jun</TD>
-		<TD>223</TD>
+		<TD ALIGN="center">Jun</TD>
+		<TD ALIGN="center">223</TD>
 	<TR>
-		<TD>Oct</TD>
-		<TD>181</TD>
+		<TD ALIGN="center">Oct</TD>
+		<TD ALIGN="center">181</TD>
 	<TR>
-		<TD>?</TD>
-		<TD>153</TD>
+		<TD ALIGN="center">?</TD>
+		<TD ALIGN="center">153</TD>
 	<TR>
-		<TD>May</TD>
-		<TD>138</TD>
+		<TD ALIGN="center">May</TD>
+		<TD ALIGN="center">138</TD>
 	<TR>
-		<TD>Apr</TD>
-		<TD>133</TD>
+		<TD ALIGN="center">Apr</TD>
+		<TD ALIGN="center">133</TD>
 	<TR>
-		<TD>Nov</TD>
-		<TD>104</TD>
+		<TD ALIGN="center">Nov</TD>
+		<TD ALIGN="center">104</TD>
 	<TR>
-		<TD>Mar</TD>
-		<TD>88</TD>
+		<TD ALIGN="center">Mar</TD>
+		<TD ALIGN="center">88</TD>
 	<TR>
-		<TD>Dec</TD>
-		<TD>55</TD>
+		<TD ALIGN="center">Dec</TD>
+		<TD ALIGN="center">55</TD>
 	<TR>
-		<TD>Feb</TD>
-		<TD>48</TD>
+		<TD ALIGN="center">Feb</TD>
+		<TD ALIGN="center">48</TD>
 	<TR>
-		<TD>Jan</TD>
-		<TD>43</TD>
+		<TD ALIGN="center">Jan</TD>
+		<TD ALIGN="center">43</TD>
 </TABLE>
 
 ### Austrália
