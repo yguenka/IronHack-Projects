@@ -87,8 +87,8 @@ Concluido ✅
 ### Austrália
 <TABLE>
 	<TR>
-		<TD ALIGN="center">Gênero</TD>
-		<TD ALIGN="center">Porcentagem</TD>
+		<TD ALIGN="center"><B>Gênero</B></TD>
+		<TD ALIGN="center"><B>Porcentagem</B></TD>
 	<TR>
 		<TD ALIGN="center">Homem</TD>
 		<TD ALIGN="center">93 %</TD>
@@ -99,8 +99,8 @@ Concluido ✅
 
 <TABLE>
 	<TR>
-		<TD ALIGN="center">Mês</TD>
-		<TD ALIGN="center">Qtd Ataques</TD>
+		<TD ALIGN="center"><B>Mês</B></TD>
+		<TD ALIGN="center"><B>Qtd Ataques</B></TD>
 	<TR>
 		<TD ALIGN="center">Jan</TD>
 		<TD ALIGN="center">167</TD>
