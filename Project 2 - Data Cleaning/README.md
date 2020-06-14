@@ -31,7 +31,7 @@ Homem:  84,7%
 
 Mulher: 15,3%
 
-<TABLE BORDER="3">
+<TABLE>
 	<TR>
 		<TD>MÊS</TD>
 		<TD>QTD ATAQUES</TD>
