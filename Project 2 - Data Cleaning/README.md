@@ -31,6 +31,14 @@ Homem:  84,7%
 
 Mulher: 15,3%
 
+<TABLE>
+	<TR>
+		<TD>MÊS</TD>
+		<TD>QTD ATAQUES</TD>
+	<TR>
+		<TD>JUL</TD>
+		<TD>306</TD>
+
 Mês  | Qtd ataques
 :---:|:-----------:
 Jul  |   306
