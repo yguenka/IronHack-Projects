@@ -27,15 +27,23 @@ Concluido ✅
 <p align="justify">Ao analisar os dados, podemos dizer que em ambos os países, há mais incidência com o gênero masculino. E dentro do gênero masculino, no verão é a estação onde há mais frequência dos ataques. Já que há maior quantidade de banhistas nesta estação do ano.</p>
 
 ### Estados Unidos
-Homem:  84,7%
+<TABLE>
+	<TR>
+		<TD ALIGN="center">Gênero</TD>
+		<TD ALIGN="center">Porcentagem</TD>
+	<TR>
+		<TD ALIGN="center">Homem</TD>
+		<TD ALIGN="center">84,7 %</TD>
+	<TR>
+		<TD ALIGN="center">Mulher</TD>
+		<TD ALIGN="center">15,3 %</TD>
+</TABLE>
 
-Mulher: 15,3%
-
-<TABLE ALIGN="center">
-	<TR ALIGN="center">
-		<TD ALIGN="center">MÊS</TD>
-		<TD ALIGN="center">QTD ATAQUES</TD>
-	<TR ALIGN="center">
+<TABLE>
+	<TR>
+		<TD ALIGN="center">Mês</TD>
+		<TD ALIGN="center">Qtd Ataques</TD>
+	<TR>
 		<TD ALIGN="center">Jul</TD>
 		<TD ALIGN="center">306</TD>
     <TR>
