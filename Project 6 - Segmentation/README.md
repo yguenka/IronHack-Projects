@@ -6,7 +6,7 @@
   <img src="https://media1.giphy.com/media/SiM1Su83stF8untgcB/giphy.gif?cid=ecf05e47e2be75bebba76a5947a1bd17951a1f5d1bb53925&rid=giphy.gif">
 </p>
 
-<p align="justify">Este projeto foi realizado a partir do dataset [Câncer de Pele](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign) com o objetivo de fazer a segmentação entre o tumor benigno e maligno do câncer de pele. As imagens estão na pasta `data`.
+<p align="justify">Este projeto foi realizado a partir do dataset <a href="https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign">Câncer de Pele</a> com o objetivo de fazer a segmentação entre o tumor benigno e maligno do câncer de pele. As imagens estão na pasta `data`.
 
 Para fazer o teste de direcionamento, foi feito a conversão das cores da imagem `girassol.jpg` em 4 cores, então foi transformado em `girassol_4.png`. Após isso, foram retirados 100 imagens para treino de tumores benígnos e 100 imagens de tumores malígnos para fazer o mesmo tratamento da imagem dos girassóis, de diminuir para 4 cores. A tentativa de clusterização diminuindo a quantidade de informações em duas colunas utilizando o ***PCA***, foi feita mas a segmentação não funcionou como esperado.
 

@@ -8,7 +8,7 @@
 
 ## Descrição
 
-<p align="justify">Utilizando o dataset de [Diamonds](https://www.kaggle.com/shivam2503/diamonds), nomeada como `base.csv`, foi feito a previsão dos preços de venda dos mesmo, visando minimizar o valor do erro quadrático total do valor fazendo tratamento dos dados, além de utilizar a regressão linear como modelo para prever o valor.</p>
+<p align="justify">Utilizando o dataset de <a href="https://www.kaggle.com/shivam2503/diamonds">Diamonds</a>, nomeada como `base.csv`, foi feito a previsão dos preços de venda dos mesmo, visando minimizar o valor do erro quadrático total do valor fazendo tratamento dos dados, além de utilizar a regressão linear como modelo para prever o valor.</p>
 
 
 ## Status do Projeto

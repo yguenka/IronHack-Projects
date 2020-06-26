@@ -8,13 +8,13 @@
 
 
 ## Descrição
-<p align="justify">A partir do dataset [Rain in Australia](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package), nomeado como `rain_data_aus.csv`, `wind_table_01.csv`, `wind_table_02.csv`, `wind_table_03.csv`, `wind_table_04.csv`, `wind_table_05.csv`, `wind_table_06.csv`, `wind_table_07.csv`, e `wind_table_08.csv` na pasta `data`, foi construído um modelo preditivo para determinar se vai ou não chover amanhã em diferentes cidades da Austrália. 
+<p align="justify">A partir do dataset <a href="https://www.kaggle.com/jsphyg/weather-dataset-rattle-package">Rain in Australia</a>, nomeado como `rain_data_aus.csv`, `wind_table_01.csv`, `wind_table_02.csv`, `wind_table_03.csv`, `wind_table_04.csv`, `wind_table_05.csv`, `wind_table_06.csv`, `wind_table_07.csv`, e `wind_table_08.csv` na pasta `data`, foi construído um modelo preditivo para determinar se vai ou não chover amanhã em diferentes cidades da Austrália. 
 
 Após o tratamento dos dados e inserção de geolocação, foi feito a moldagem do Machine Learning para que seja possível a previsão do tempo nas cidades.
 
 Ao realizar a moldagem utilizando alguns métodos, decidi escolher o LightGBM que melhor se adequou para fazer a previsão.
 
-A apresentação está disponível em: [Vai chover amanhã ?](https://docs.google.com/presentation/d/1ZxmFY8S0LMtlLfsznKvv7CUc0-v7NpXukbz_P-MkGd8/edit?usp=sharing)</p>
+A apresentação está disponível em: <a href="https://docs.google.com/presentation/d/1ZxmFY8S0LMtlLfsznKvv7CUc0-v7NpXukbz_P-MkGd8/edit?usp=sharing">Vai chover amanhã ?</a></p>
 
 
 ## Status do Projeto

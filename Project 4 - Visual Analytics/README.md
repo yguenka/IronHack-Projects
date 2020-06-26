@@ -10,7 +10,7 @@
 
 <p align="justify">Utilizando as informações geradas a partir do projeto 3, de Web Scraping e API, foi feito a mesclagem dos dois datasets. Além disso, foi feito a mesclagem do dataset de COVID-19 no Brasil com o dataset sobre a variação das ações da companhia aérea Azul. Assim, foi gerado dois arquivos: `azul_acoes.csv` e `corona_dolar.csv`.
 
-Ao utilizar as informações dos dois arquivos gerados, a análise visual de dados foram feitos utilizando o [Tableau Public](https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Project4-VisualAnalytics/Project4-VisualAnalytics?publish=yes).</p>
+Ao utilizar as informações dos dois arquivos gerados, a análise visual de dados foram feitos utilizando o <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Project4-VisualAnalytics/Project4-VisualAnalytics?publish=yes">Tableau Public</a>).</p>
 
 ## Status do Projeto
 Concluido ✅
