@@ -8,7 +8,7 @@
 
 
 ## Descrição
-<p align="justify">Neste projeto, foi realizado o Data Cleaning do dataset [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks), nomeado como GSAF5.csv.</p>
+<p align="justify">Neste projeto, foi realizado o Data Cleaning do dataset <a href="https://www.kaggle.com/teajay/global-shark-attacks">Shark Attack</a>, nomeado como GSAF5.csv.</p>
 
 ## Objetivo 
 <p align="justify">O projeto foi direcionado a partir do tema: Analisando os dados, qual gênero e estação do ano ocorre os ataques de tubarões nos Estados Unidos e na Austrália ?</p>
