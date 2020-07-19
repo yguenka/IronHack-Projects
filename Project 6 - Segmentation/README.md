@@ -3,7 +3,7 @@
 # 📋 Project 6 | Segmentation
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/SiM1Su83stF8untgcB/giphy.gif?cid=ecf05e47e2be75bebba76a5947a1bd17951a1f5d1bb53925&rid=giphy.gif">
+<img src="https://media1.giphy.com/media/SiM1Su83stF8untgcB/giphy.gif?cid=ecf05e47e2be75bebba76a5947a1bd17951a1f5d1bb53925&rid=giphy.gif">
 </p>
 
 <p align="justify">Este projeto foi realizado a partir do dataset <a href="https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign">Câncer de Pele</a> com o objetivo de fazer a segmentação entre o tumor benigno e maligno do câncer de pele. As imagens estão na pasta `data`.

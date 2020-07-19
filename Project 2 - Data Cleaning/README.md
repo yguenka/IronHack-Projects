@@ -3,7 +3,7 @@
 # 🧹 Project 2 | Data Cleaning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ycr587EkQo8KY/giphy.gif">
+<img src="https://media.giphy.com/media/Ycr587EkQo8KY/giphy.gif">
 </p>
 
 
